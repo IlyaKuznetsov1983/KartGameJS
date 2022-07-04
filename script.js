@@ -6,17 +6,17 @@ const getAnswer = (index) => {
 const cards = [
   {
     input: document.querySelector("#input1"),
-    btn: document.querySelector("btn1"),
+    btn: document.querySelector(".btn1"),
   },
 
   {
     input: document.querySelector("#input2"),
-    btn: document.querySelector("btn2"),
+    btn: document.querySelector(".btn2"),
   },
 
   {
     input: document.querySelector("#input3"),
-    btn: document.querySelector("btn3"),
+    btn: document.querySelector(".btn3"),
   },
 ];
 
